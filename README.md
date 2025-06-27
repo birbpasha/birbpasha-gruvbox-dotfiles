@@ -3,6 +3,7 @@ Some parts of this rice (like the waybar modules or certain scripts) were inspir
 
 ## NOTE!!!
 These dotfiles are made specifically for desktop users. I'm not going to edit it for laptops
+I am not going to maintain or update this github repository anytime soon
 
 ## Requirements
 
